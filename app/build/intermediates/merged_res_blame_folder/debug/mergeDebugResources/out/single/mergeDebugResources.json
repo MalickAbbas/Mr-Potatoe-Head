@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_nose.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\nose.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_body.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\body.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_mustache.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\mustache.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_hat.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\hat.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_shoes.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\shoes.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_arms.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\arms.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_mouth.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\mouth.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_eyebrows.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\eyebrows.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_eyes.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\eyes.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_glasses.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\glasses.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\drawable_ears.png.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\drawable\\ears.png"
+    },
+    {
+        "merged": "com.example.potatoehead.app-debug-44:/drawable_tr.png.flat",
+        "source": "com.example.potatoehead.app-main-46:/drawable/tr.png"
+    },
+    {
+        "merged": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Malik Nasik\\.gradle\\daemon\\8.4\\com.example.potatoehead.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
